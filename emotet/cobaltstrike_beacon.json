@@ -1,0 +1,64 @@
+{
+    "BeaconType": [
+        "HTTPS"
+    ],
+    "Port": 443,
+    "SleepTime": 5000,
+    "MaxGetSize": 1403644,
+    "Jitter": 10,
+    "MaxDNS": "Not Found",
+"PublicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCbcI0B4jpE0I6Ioj0qYRjoDYlN52X78HX2BZ1bBLV60oOeXcvOGi7Rxcz/n0luXq
+mSpsw9M4x0dnUWFYPL2HUxzufEfchGPyxEnH6ASasVbS0OWqIkUsuri/5vJUvisrcKT9Ebodon8Z2AUqOaZZ8s37VUxJhSm4IxsLJ6WRgFkwIDAQABAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+==",
+    "C2Server": "lartmana\.com,/jquery-3.3.1.min.js",
+    "UserAgent": "Not Found",
+    "HttpPostUri": "/jquery-3.3.2.min.js",
+    "HttpGet_Metadata": "Not Found",
+    "HttpPost_Metadata": "Not Found",
+    "SpawnTo": "AAAAAAAAAAAAAAAAAAAAAA==",
+    "PipeName": "Not Found",
+    "DNS_Idle": "Not Found",
+    "DNS_Sleep": "Not Found",
+    "SSH_Host": "Not Found",
+    "SSH_Port": "Not Found",
+    "SSH_Username": "Not Found",
+    "SSH_Password_Plaintext": "Not Found",
+    "SSH_Password_Pubkey": "Not Found",
+    "HttpGet_Verb": "GET",
+    "HttpPost_Verb": "POST",
+    "HttpPostChunk": 0,
+    "Spawnto_x86": "%windir%\\syswow64\\dllhost.exe",
+    "Spawnto_x64": "%windir%\\sysnative\\dllhost.exe",
+    "CryptoScheme": 0,
+    "Proxy_Config": "Not Found",
+    "Proxy_User": "Not Found",
+    "Proxy_Password": "Not Found",
+    "Proxy_Behavior": "Use IE settings",
+    "Watermark": 0,
+    "bStageCleanup": "True",
+    "bCFGCaution": "False",
+    "KillDate": 0,
+    "bProcInject_StartRWX": "False",
+    "bProcInject_UseRWX": "False",
+    "bProcInject_MinAllocSize": 17500,
+    "ProcInject_PrependAppend_x86": [
+        "kJA=",
+        "Empty"
+    ],
+    "ProcInject_PrependAppend_x64": [
+        "kJA=",
+        "Empty"
+    ],
+    "ProcInject_Execute": [
+        "ntdll:RtlUserThreadStart",
+        "CreateThread",
+        "NtQueueApcThread-s",
+        "CreateRemoteThread",
+        "RtlCreateUserThread"
+    ],
+    "ProcInject_AllocationMethod": "NtMapViewOfSection",
+    "bUsesCookies": "True",
+    "HostHeader": "",
+    "version": 4
+}
