@@ -1,0 +1,71 @@
+rule kronos_string_decryption
+{
+  strings: 
+    $ = {6a 1e 5f f7 f7 8b 45 08 8d 3c 1e 8a 04 38 8a ?? ?? ?? ?? ?? 32 c2}   
+    $ = {55 8b ec 51 8b 4d 08 c1 e1 04 8b ?? ?? ?? ?? ?? 8a}
+  condition: 
+    all of them
+}
+
+rule kronos_api_strings
+{
+  strings:
+    $ = "D7T1H5F0F5A4C6S3"
+    $ = "H2G3F4F0F5A4D5E6"
+    $ = "X1U5U8H8F5A4C8C5"
+    $ = "E3D7R6B3R4H5F3R7"
+    $ = "X8D3U3P7S6Q3S5R1"
+    $ = "X8D3T6Q6U3S3A6R1"
+    $ = "R6G2D2R3A5E3C4U5"
+    $ = "H7Y6G2R3A5F4D3S8"
+    $ = "P7Y3Q5P0Y8C2Y6F6"
+    $ = "R6Y7B3C6E7E6T7U7"
+    $ = "G2F3G6A6R3F1P6G2"
+    $ = "S3H8T8Y5F5B5B0X0"
+    $ = "C8G2T3U3B1H3T5B5"
+    $ = "C4R7A2P4X3B1H5A4"
+    $ = "R3Q7T7Q2R6S1Y3R5"
+    $ = "E3C3A2Y3C4U6S5F5"
+    $ = "F3P7Y6P3U3E2U5F3"
+    $ = "E5X0A4Q4F0Y0D6E2"
+    $ = "X2R0A4Q4F0Y0D6F3"
+    $ = "H1G7R4Y7D1E6R5F8"
+    $ = "G3C3R4H7R5T8E5R8"
+    $ = "F6H5P7T4F6D6Y6D4"
+    $ = "E3C7U2Y3C3R6R5D5"
+    $ = "F5E8X5G3Q6T7E6T3"
+    $ = "E1U3D5F7R2Y5S0H4"
+    $ = "H3Y5C8Y2D4U8Y4S3"
+    $ = "U0U6H1T2F6S1P2Y5"
+    $ = "D5R3T8D5D3H0B4E2"
+    $ = "D5B6G6R4A6H1P7A3"
+    $ = "F1Q3D0H4H3T6U1X5"
+    $ = "A4T6P1G7D6G0F3S5"
+    $ = "C7G5T6P7U5B1H0F5"
+    $ = "X2C7E3U6F3A7Y1D5"
+    $ = "P4Y7T7R7R8X3E3A3"
+    $ = "C5Y7R2R2H1R7A1B2"
+    $ = "S4A3E3S3S4T1T3D1"
+    $ = "B4Y2H7F8A2T3G4H3"
+    $ = "B5D6X4H5G6S3R2B5"
+    $ = "B6F6X4A8R5D3A7C6"
+    $ = "C6P7E6P7A1R5Q4R7"
+    $ = "R8S7D7S8H6Y4T6B7"
+    $ = "U0S3T3D3U5F5B4E8"
+    $ = "F6C3U4P4X3B1H3T5"
+    $ = "T2F2T3U2H5B1C1A7"
+    $ = "T0E0H4U0X3A3D4D8"
+    $ = "C5R4X4H7R5T7A5R6"
+    $ = "D3S0A7R4F6C8F2R5"
+    $ = "Y1C1B6A7H3C0E7E7"
+    $ = "H2E7A5B8Q6G3S7Y3"
+    $ = "D3Q5F2F3R5Y5Y8S2"
+    $ = "Y2C3G8R5R3A5F5B4"
+    $ = "F1D2B6A5T3X2C8R1"
+    $ = "G5D3P2G0F6G2H8E6"
+    $ = "Y6Q6P2G0E5E6G2H8"
+    $ = "Y7D3F3S7X2S4F2X3"
+    $ = "X7D0E3R2R4Q0E4D3"
+  condition:
+    25 of them
+}
