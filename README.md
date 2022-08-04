@@ -1,2 +1,2 @@
 # Zscaler ThreatLabz IOCs
-This repository is for Indicators of Compromise (IOCs) from Zscaler ThreatLabz public reports
+This repository contains Indicators of Compromise (IOCs) from the Zscaler ThreatLabz team. Enjoy!
