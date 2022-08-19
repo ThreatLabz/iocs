@@ -1,0 +1,42 @@
+Embedded Domains: (Same used for Check-In Request)
+
+http[:]//barusgorlerat[.]me
+http[:]//damacenapirescontab[.]com
+http[:]//assesorattlas[.]me
+http[:]//perfomacepnneu[.]me
+
+Grandoreiro Loader URLs:
+
+35[.]181[.]59[.]254/info99908hhzzb.zip
+35[.]180[.]117[.]32/$FISCALIGENERAL3489213839012
+35[.]181[.]59[.]254/$FISCALIGE54327065410839012?id_JIBBRS=DR-307494
+52[.]67[.]27[.]173/deposito(1110061313).zip
+54[.]232[.]38[.]61/notificacion(flfit48202).zip
+54[.]232[.]38[.]61/notificacion(egmux24178).zip
+
+
+Final Grandoreiro Payload URLs with Check-In URL:
+
+15[.]188[.]63[.]127/$TIME
+167[.]114[.]137[.]244/$TIME
+15[.]188[.]63[.]127:36992/zxeTYhO.xml
+15[.]188[.]63[.]127:36992/vvOGniGH.xml
+15[.]188[.]63[.]127[:]36992/eszOscat.xml
+15[.]188[.]63[.]127:36992/YSRYIRIb.xml
+167[.]114[.]137[.]244:48514/eyGbtR.xml
+barusgorlerat[.]me/MX/
+assesorattlas[.]me/MX/
+assesorattlas[.]me/AR/
+atlasassessorcontabilidade[.]com/BRAZIL/
+vamosparaonde[.]com/segundona/
+mantersaols[.]com/MEX/MX/
+premiercombate[.]eastus.cloudapp.azure.com/PUMA/
+
+Grandoreiro CnC:
+
+Pcbbcrjcgbcghjpbcgkccbjorkhhjcjj[.]fantasyleague[.]cc -> fantasyleague[.]cc
+jmllmedvhgmhldjgmhvmmlljhvgdzvzz[.]dynns[.]com
+ciscofreak[.]com
+chjjhjmomaoheoojjbynnyjiidfcncc.cable-modem.org -> cable-modem.org
+odbbdbmgmagdfggbbnynnyjiidfcncc.blogsyte.com -> blogsyte.com
+ifnnfnmcmacfdccnnjynnyjiidfcncc.collegefan.org -> collegefan.org
