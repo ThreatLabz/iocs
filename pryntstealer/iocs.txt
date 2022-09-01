@@ -1,0 +1,6 @@
+URLs,Description
+https://cdn.discordapp.]com/attachments/523238636561629190/890007970207907871/vltn.exe,DarkEyeStealer Hosting
+bigdaddy-service.biz:6606,DarkEyeStealer C&C 
+bigdaddy-service.biz:7707,DarkEyeStealer C&C 
+bigdaddy-service.biz:8808,DarkEyeStealer C&C 
+daddy.linkpc.net:1199,LodaRAT C&C
