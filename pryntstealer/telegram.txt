@@ -1,0 +1,6 @@
+Telegram Token,Chat ID,Comment
+1119746739:AAGMhvpUjXI4CzIfizRC--VXilxnkJlhaf8,1096425866,WorldWind (hardcoded)
+1784055443:AAG-bXLYtnFpjJ_L3ogxA3bq6Mx09cqh8ug,1937717367,PryntStealer (hardcoded)
+5292408150:AAHAPbTr2Jc9L4hgsfkDkvfw_hISg6lPMMI,5038570348,PryntStealer
+5292408150:AAHAPbTr2Jc9L4hgsfkDkvfw_hISg6lPMMI,1856525476,PryntStealer
+1916193181:AAHhdcx3k6mHbnJ6JLfyWtJBMChny-la8Xs,849561191,PryntStealer
