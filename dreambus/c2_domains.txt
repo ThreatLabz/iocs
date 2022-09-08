@@ -1,3 +1,5 @@
+# C2 Tor Domains
+
 dreambusweduybcp.onion
 qsts2vqotnlh2h5xwa7fp3iopb7h7cngknjjo4f4sxhrwcqgughipxid.onion
 i62hmnztfpzwrhjg34m6ruxem5oe36nulzmxcgbdbkiaceubprkta7ad.onion
@@ -8,3 +10,7 @@ bggts547gukhvmf4cgandlgxxphengxovoyo6ewhns5qmmb2b5oi43yd.onion
 4iucigxvlfx4vcqn5sordersaa3a3ztjcaoszptxxo5b3pbn6nlwsfad.onion
 sg722jwocbvedckhd4dptpqfek5fsbmx3v57qg6lzhuo56np73mb3zyd.onion
 25wlksd35c2fs55rnhlcfz3jjaujxmbmfkvrxeu7tkgnnesdhh3gghqd.onion
+rxmxpzfkydkulhhqnuftbmf6d5q67jjchopmh4ofszfwwnmz4bqq2fid.onion
+
+# C2 IPs / Domains
+http://139.59.150.7:443
