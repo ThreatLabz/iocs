@@ -11,6 +11,7 @@ bggts547gukhvmf4cgandlgxxphengxovoyo6ewhns5qmmb2b5oi43yd.onion
 sg722jwocbvedckhd4dptpqfek5fsbmx3v57qg6lzhuo56np73mb3zyd.onion
 25wlksd35c2fs55rnhlcfz3jjaujxmbmfkvrxeu7tkgnnesdhh3gghqd.onion
 rxmxpzfkydkulhhqnuftbmf6d5q67jjchopmh4ofszfwwnmz4bqq2fid.onion
+4t5ypbzi2kko7tqmk6y345ntpmctwj5jmu3cebxsnonsdljyyfs335ad.onion
 
 # C2 IPs / Domains
 http://139.59.150.7:443
