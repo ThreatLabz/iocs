@@ -1,0 +1,6 @@
+GET /ads_optimize_result/cext?a=http&dev=1&v=2.0.11&machine_id=633cc7cfedeed_425802&from=SYS01&tag=office&uname=Windows+NT+610930+10.0+build+18363+%28Windows+10%29+AMD64 HTTP/1.1
+Host: emisfer.com
+Accept: */*
+Accept-Encoding: deflate, gzip
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
