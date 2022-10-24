@@ -1,0 +1,7 @@
+32-Advisory-No-32.iso: d510808a743e6afc705fc648ca7f896a
+33-Advisory-No-33-2022.pdf.iso: 63d6d8213d9cc070b2a3dfd3c5866564
+WarHawk_v1: 8f9cf5c828cb02c83f8df52ccae03e2a
+WarHawk_v1.1: 5cff6896e0505e8d6d98bff35d10c43a
+Snitch.exe CS Loader: ec33c5e1773b510e323bea8f70dcddb0
+OneDrive.exe CS Beacon: d0acccab52778b77c96346194e38b244
+DDRA.exe CS Beacon: 40f86b56ab79e94893e4c6f1a0a099a1
