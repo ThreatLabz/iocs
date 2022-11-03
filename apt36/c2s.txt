@@ -1,0 +1,34 @@
+# Limepad C2 domains
+ncloudup[.]com
+gcloudsvc[.]com
+
+# Credential harvesting sites
+nic-updates[.]in
+kavachmail-govin[.]rf[.]gd
+
+# Attacker-registered domains spoofing Kavach site
+kavach-app[.]com
+kavachguide[.]com
+kavach-app[.]in
+get-kavach[.]in
+getkavach[.]com
+kavachsupport[.]com
+kavachdownload[.]in
+kavachauthentication.blogspot[.]com
+
+# Post-infection IOCs
+139.59.79[.]86
+139.59.79[.]86/song.mp3
+139.59.79[.]86/OneDriveHandler45_bf.zip
+139.59.79[.]86/OneDriveHandler45.zip
+139.59.79[.]86/C2L!Dem0&PeN/A@llPack3Ts/Cert.php
+
+# wzxdao[.]com
+wzxdao[.]com/onedrivehandlerx86.zip
+wzxdao[.]com/OnrDriveHandlerx86.zip
+
+# Decoy file URLs
+hxxp://139.59.23[.]88/confirmation_id.pdf
+hxxps://ncloudup[.]com/trendmic/details.pdf
+hxxp://wzxdao[.]com/resultupdate.jpg
+http://139.59.79[.]86/Pictures.jpg
