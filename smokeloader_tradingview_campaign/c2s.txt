@@ -1,0 +1,13 @@
+# SmokeLoader C2
+85.208.136[.]162
+
+# ArkeiStealer download URL 
+212[.]8[.]246[.]70/builds/still[.]exe
+212[.]8[.]246[.]70/builds/installer[.]exe
+212[.]8[.]246[.]70/builds/bot[.]exe
+
+# Fake TradingView download URL
+hxxps://tradingview[.]business/download.php
+
+# Fake TradingView Application Distribution Domain
+sxvlww.am.files.1drv.com

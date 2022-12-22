@@ -1,0 +1,8 @@
+# ArkeiStealer payload
+4d7f538bf21bf0c42fee87d28d3f3079
+55552ed60bddd332eee8a23f0494174f
+16857afad0b6c40469e5d9d9b63a2927
+0743250f8bb1a0baa01affcfd963d171
+
+# Fake TradingView Desktop Application
+fc99ea424df48f2b661219b71f33b979
