@@ -1,0 +1,20 @@
+# Zip file
+d09be7c2784e05c615c3f1414a9b534d
+
+# Legitimate files used for sideloading the malicious DLLs
+a844d8580ba205bcbb5f72de6dc60352 
+1f79bb67a22eedc2e5bac2037a07710a
+2131ffbb5613cc2f40d7394a2ecb71d7
+b49cc8837c6d418b133bf4f0d455098d
+
+# Malicious DLL files
+5e0c580c5d84780d56c069d8f74f67aa
+ebddeeb9823ddcc6fa8201431601b0bf
+33f4c955fc38dd3a313e4a451345cab9
+11ad0039556fb04d4ba07dc89d9abe3d
+4a4d0728d0c1e3e06a90f26655ff58f3
+435769ad9be3b7c64a0089d833fc8e5e
+d7e1b8c5face37fd8b01eee9974a0a7e
+
+# Dat file with images
+267cfa3c3c9cbff218bbd4ec098e4ab9 
