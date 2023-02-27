@@ -1,0 +1,15 @@
+# Stage-2 Downloader URL
+pastetext[.]net/raw/lcscgt0mss
+
+# Stage-3 Downloader URL
+toptal[.]com/developers/hastebin/raw/buliforayu
+
+# Final RAT Loader Downloader IPs
+185[.]81[.]157[.]59
+185[.]81[.]157[.]172
+185[.]81[.]157[.]136 
+185[.]81[.]157[.]117
+
+# RAT Command & Control
+crazydns[.]linkpc[.]net:5900
+185[.]81[.]157[.]203:1111

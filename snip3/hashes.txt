@@ -1,0 +1,21 @@
+# Stage-1 VBScript
+bd23ae38590d87243af890505d6fbeec
+a41de1ef870e970e265cc35b766a5ec8
+
+# Stage-2 Powershell
+a5b76ca780ddff061db6f86f03d3b120
+
+# Stage-3 Powershell
+b78c9bb6070340bb4d352a0a28b7
+
+# DcRAT Loader
+923f46f8a9adfd7a48536de6f851d0f7
+
+# QuasarRAT Loader
+dda2ba195c9ebc9f169770290cd9f68a
+
+# DcRAT
+ef2236c85f915cae6380c64cc0b3472a
+
+# QuasarRAT
+0bbc89719ff3c4a90331288482c95eac
