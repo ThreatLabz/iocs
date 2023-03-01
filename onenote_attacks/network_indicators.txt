@@ -1,0 +1,12 @@
+http://helthbrotthersg[.]com/view.png				IcedID Payload from OneNote File
+https://transfer[.]sh/get/vpiHmi/invoice.pdf			Decoy PDF
+http://ehonlionetodo[.]com					IcedID C2
+http://167[.]172[.]154[.]189/36.ps1				Powershell for CobaltStrike
+http://167[.]172[.]154[.]189/360702.dll				Cobalt Strike Payload
+https://thefirstupd[.]com					Cobalt Strike C2
+https://myvigyan[.]com/m1YPt/300123.gif				Qakbot Payload (hta dropped)
+https://starcomputadoras[.]com/lt2eLM6/01.gif			Qakbot  (cmd dropped)
+https://somosnutrisalud[.]cl/installs/clean/payroll.exe		Payload1
+https://wi-protect[.]com/install/Eulsm.exe			Payload2
+https://oiartzunirratia[.]eus/install/clean/Lcovlccdxd.exe	Redline Payload
+194[.]26[.]192[.]248:7053					Redline C2 Url  

@@ -1,0 +1,15 @@
+e9f0dbbd19ef972dd2fc163a4b34eae1	AsyncRAT OneNote File 
+19905a73840430e28c484b97546225c6	Dropped Batch File
+146f4f1c9b29e7505f275772378bfec9	AsyncRAT payload1
+1d9aa7c9aa3f8dc9dd58a38176ea36fe	AsyncRAT payload2
+5139af509129641b1d29edd19c436b54	IcedID OneNote File 
+6b1e64957316e65198e3a1f747402bd6	IcedID DLL Payload
+6b500ad29c39f72cd77c150a47df64ea	CobaltStrike DLL Payload
+4c6a40f40dcd0af8d5c41d0fcc8e4521	Qakbot OneNote File (hta dropped)
+3c7c265f618912d81856bf460bf19f61	Qakbot OneNote File (cmd dropped)
+fa49fd13fc49ab38b97d2d019cc04b39	CMD file to download Qakbot
+973e87ec99502aac9a12f987748a812a	Redline OneNote File 
+39f3c510f46d605202844e35c07db84b	Dropped Hta File 1
+558da264c83bfe58c1fc56171c90c093	Dropped Hta File 1
+C6ba1a7b2b90e18b6c25382453370169	Dropped Hta File 1
+d3713110654dc546bd5edc306a6e7efd	Redline payload
