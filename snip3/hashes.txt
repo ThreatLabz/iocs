@@ -6,7 +6,7 @@ a41de1ef870e970e265cc35b766a5ec8
 a5b76ca780ddff061db6f86f03d3b120
 
 # Stage-3 Powershell
-b78c9bb6070340bb4d352a0a28b7
+b78c9bb6070340bb4d352c712a0a28b7
 
 # DcRAT Loader
 923f46f8a9adfd7a48536de6f851d0f7
