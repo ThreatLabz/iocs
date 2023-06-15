@@ -1,0 +1,83 @@
+123-domaines.net.               21600    IN    NS    jimmy.ns.cloudflare.com.
+123-domaines.net.               21600    IN    NS    meadow.ns.cloudflare.com.
+
+africahelp.org.                 21600    IN    NS    jimmy.ns.cloudflare.com.
+africahelp.org.                 21600    IN    NS    meadow.ns.cloudflare.com.
+
+alchemistwallet.io.             21600    IN    NS    jimmy.ns.cloudflare.com.
+alchemistwallet.io.             21600    IN    NS    meadow.ns.cloudflare.com.
+
+alerterapp.mobi.                21600    IN    NS    jimmy.ns.cloudflare.com.
+alerterapp.mobi.                21600    IN    NS    meadow.ns.cloudflare.com.
+
+akeygen.com.                    21600    IN    NS    amit.ns.cloudflare.com.
+akeygen.com.                    21600    IN    NS    jacqueline.ns.cloudflare.com.
+
+ashrayakrutifoundation.org.     21600    IN    NS    jimmy.ns.cloudflare.com.
+ashrayakrutifoundation.org.     21600    IN    NS    meadow.ns.cloudflare.com.
+
+athletesadvantagephysio.com.    21600    IN    NS    rosalyn.ns.cloudflare.com.
+athletesadvantagephysio.com.    21600    IN    NS    stan.ns.cloudflare.com.
+
+babypicturesultrasound.com.     21600    IN    NS    jimmy.ns.cloudflare.com.
+babypicturesultrasound.com.     21600    IN    NS    meadow.ns.cloudflare.com.
+
+bayswaterholding.com.           21600    IN    NS    jimmy.ns.cloudflare.com.
+bayswaterholding.com.           21600    IN    NS    meadow.ns.cloudflare.com.
+
+bhandarapolice.org.             21600    IN    NS    jimmy.ns.cloudflare.com.
+bhandarapolice.org.             21600    IN    NS    meadow.ns.cloudflare.com.
+
+coloradotruckie.com.            21600    IN    NS    jimmy.ns.cloudflare.com.
+coloradotruckie.com.            21600    IN    NS    meadow.ns.cloudflare.com.
+
+comprarepatenteitaliana.com.    21600    IN    NS    jimmy.ns.cloudflare.com.
+comprarepatenteitaliana.com.    21600    IN    NS    meadow.ns.cloudflare.com.
+
+cwbusinesswomen.org.            21600    IN    NS    jimmy.ns.cloudflare.com.
+cwbusinesswomen.org.            21600    IN    NS    meadow.ns.cloudflare.com.
+
+e-dato.com.                     21600    IN    NS    jimmy.ns.cloudflare.com.
+e-dato.com.                     21600    IN    NS    meadow.ns.cloudflare.com.
+
+engtechjournal.org.             21600    IN    NS    jimmy.ns.cloudflare.com.
+engtechjournal.org.             21600    IN    NS    meadow.ns.cloudflare.com.
+
+gujaratstudy.in.                21600    IN    NS    jimmy.ns.cloudflare.com.
+gujaratstudy.in.                21600    IN    NS    meadow.ns.cloudflare.com.
+
+hanoigarden.net.                21600    IN    NS    jimmy.ns.cloudflare.com.
+hanoigarden.net.                21600    IN    NS    meadow.ns.cloudflare.com.
+
+hilltopfarmers.co.za.           21600    IN    NS    jimmy.ns.cloudflare.com.
+hilltopfarmers.co.za.           21600    IN    NS    meadow.ns.cloudflare.com.
+
+kavier.com.mx.                  21600    IN    NS    jimmy.ns.cloudflare.com.
+kavier.com.mx.                  21600    IN    NS    meadow.ns.cloudflare.com.
+
+marisolblooms.com.              21600    IN    NS    jimmy.ns.cloudflare.com.
+marisolblooms.com.              21600    IN    NS    meadow.ns.cloudflare.com.
+
+quillkingston.org.              21600    IN    NS    jimmy.ns.cloudflare.com.
+quillkingston.org.              21600    IN    NS    meadow.ns.cloudflare.com.
+
+sacredspace-sf.com.             21600    IN    NS    jimmy.ns.cloudflare.com.
+sacredspace-sf.com.             21600    IN    NS    meadow.ns.cloudflare.com.
+
+spotifyapkpremium.net.          21600    IN    NS    jimmy.ns.cloudflare.com.
+spotifyapkpremium.net.          21600    IN    NS    meadow.ns.cloudflare.com.
+
+tatouageclermontfd.com.         21600    IN    NS    jimmy.ns.cloudflare.com.
+tatouageclermontfd.com.         21600    IN    NS    meadow.ns.cloudflare.com.
+
+teammsolutions.com.     	21600    IN    NS    jimmy.ns.cloudflare.com.
+teammsolutions.com.     	21600    IN    NS    meadow.ns.cloudflare.com.
+
+wearehumanhuman.com.            21600    IN    NS    jimmy.ns.cloudflare.com.
+wearehumanhuman.com.            21600    IN    NS    meadow.ns.cloudflare.com.
+
+wordczarmedia.com.              21600    IN    NS    jimmy.ns.cloudflare.com.
+wordczarmedia.com.              21600    IN    NS    meadow.ns.cloudflare.com.
+
+wowvillas.in.                   21600    IN    NS    amit.ns.cloudflare.com.
+wowvillas.in.                   21600    IN    NS    jacqueline.ns.cloudflare.com.

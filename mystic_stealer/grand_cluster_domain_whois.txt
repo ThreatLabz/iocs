@@ -1,0 +1,58 @@
+# whois.PublicDomainRegistry.com
+
+Domain Name: COLORADOTRUCKIE.COM
+Registry Domain ID: 2718112740_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: www.publicdomainregistry.com
+Updated Date: 2022-10-14T06:05:12Z
+Creation Date: 2022-08-14T18:15:13Z
+Registrar Registration Expiration Date: 2023-08-14T18:15:13Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Grand
+Registrant Organization:
+Registrant Street: Vibornaya-117/1-99
+Registrant City: Nsk
+Registrant State/Province: Novosibirskaya oblast
+Registrant Postal Code: 630126
+Registrant Country: RU
+Registrant Phone: +7.9130056420
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: grand.bbs@yandex.ru
+Registry Admin ID: Not Available From Registry
+Admin Name: Grand
+Admin Organization:
+Admin Street: Vibornaya-117/1-99
+Admin City: Nsk
+Admin State/Province: Novosibirskaya oblast
+Admin Postal Code: 630126
+Admin Country: RU
+Admin Phone: +7.9130056420
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: grand.bbs@yandex.ru
+Registry Tech ID: Not Available From Registry
+Tech Name: Grand
+Tech Organization:
+Tech Street: Vibornaya-117/1-99
+Tech City: Nsk
+Tech State/Province: Novosibirskaya oblast
+Tech Postal Code: 630126
+Tech Country: RU
+Tech Phone: +7.9130056420
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: grand.bbs@yandex.ru
+Name Server: jimmy.ns.cloudflare.com
+Name Server: meadow.ns.cloudflare.com
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2023-05-25T00:31:13Z <<<
