@@ -1,0 +1,158 @@
+{
+    "build_identifiers": {
+        "watermark": "2300af0c",
+        "watermark_hash": "dc7875617e2f4f78b90bb2f6b27ecae1",
+        "releasenotes_hash": "5eea44650e8c6b09c2839bd2fb673b61",
+        "teamserverimage_hash": "6eebe6e473d3503233aa56f2ce51f5b1"
+    },
+    "cfg_caution": false,
+    "cleanup": true,
+    "crypto_keys": [
+        {
+            "key": {
+                "e": 65537,
+                "n": 116070618613680827767543007135707086679960478161352437237398889210213619957650799256139724346821779955221771018497787437350851212943073252580917521449674952949908997112288951124769476143283501499439094762411645677212939739616717219863204333755606196965328606895969072410712436213717026194008309062925958376343,
+                "mode": "PUBLIC",
+                "input_format": "DER"
+            },
+            "key_relation": "communication",
+            "key_type": "RSA"
+        }
+    ],
+    "domain_strategy": "round_robin",
+    "exit_funk": 0,
+    "http": {
+        "get": {
+            "verb": "GET",
+            "client": {
+                "metadata": {
+                    "step": "5",
+                    "transforms": [
+                        "mask",
+                        "base64url",
+                        "prepend \"auth_token2LZS=\"",
+                        "header \"Cookie\""
+                    ]
+                },
+                "constants": {
+                    "header": {
+                        "1": "x-authorization: HzqAG84mxP3Zwsb",
+                        "2": "Accept: application/xhtml+xml, application/json, text/html",
+                        "3": "Accept-Language: nb",
+                        "4": "Accept-Encoding: compress, *"
+                    }
+                }
+            },
+            "server": [
+                "print",
+                "append \"929 characters\"",
+                "prepend \"910 characters\"",
+                "base64url",
+                "mask"
+            ]
+        },
+        "post": {
+            "uri": "/Retrieve/v3.85/ZSRNTX1OUI",
+            "verb": "POST",
+            "chunk": 0,
+            "client": {
+                "id": {
+                    "step": "5",
+                    "transforms": [
+                        "mask",
+                        "netbiosu",
+                        "parameter \"_CJEUTLWB\""
+                    ]
+                },
+                "output": {
+                    "step": "6",
+                    "transforms": [
+                        "mask",
+                        "netbios",
+                        "print"
+                    ]
+                },
+                "constants": {
+                    "header": {
+                        "1": "x-authorization: HzqAG84mxP3Zwsb",
+                        "2": "Accept: application/json, application/xhtml+xml, text/html",
+                        "3": "Accept-Language: ar-ma",
+                        "4": "Accept-Encoding: gzip, *"
+                    }
+                }
+            }
+        },
+        "proxy": {
+            "behavior": "preconfig"
+        },
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36",
+        "host_header": "",
+        "http_no_cookies": true
+    },
+    "is_trial": false,
+    "jitter": 35,
+    "kill_date_month": 0,
+    "max_index": 74,
+    "max_retry_strategy": "",
+    "maxget": 2798047,
+    "obfuscate_sections": [
+        {
+            "end": "000289b5",
+            "start": "00001000"
+        },
+        {
+            "end": "00032c11",
+            "start": "00029000"
+        },
+        {
+            "end": "00042020",
+            "start": "00033000"
+        },
+        {
+            "end": "00045060",
+            "start": "00043000"
+        }
+    ],
+    "post_ex": {
+        "spawn_to_x64": "%windir%\\sysnative\\getmac.exe /V",
+        "spawn_to_x86": "%windir%\\syswow64\\getmac.exe /V"
+    },
+    "process_inject": {
+        "userwx": false,
+        "execute": [
+            "CreateThread \"ntdll!RtlUserThreadStart+0x805\"",
+            "CreateThread",
+            "NtQueueApcThread_s",
+            "CreateRemoteThread",
+            "RtlCreateUserThread"
+        ],
+        "startrwx": true,
+        "allocator": "NtMapViewOfSection",
+        "min_alloc": 11282,
+        "bof_allocator": "VirtualAlloc",
+        "transform_x64": {
+            "append": "660f1f840000000000660f1f840000000000660f1f440000660f1f8400000000000f1f440000",
+            "prepend": "0f1f000f1f840000000000660f1f4400000f1f80000000000f1f4000660f1f8400000000000f1f8400000000000f1f8400000000000f1f800000000066900f1f80000000000f1f440000"
+        },
+        "transform_x86": {
+            "append": "5058660f1f840000000000660f1f4400000f1f8400000000000f1f8000000000669066900f1f4400000f1f4000660f1f4400000f1f8400000000000f1f00",
+            "prepend": "660f1f44000050580f1f00660f1f4400000f1f00660f1f84000000000066900f1f000f1f0090"
+        },
+        "bof_reuse_memory": true
+    },
+    "protocol": "https",
+    "sleep_time": 5000,
+    "smb_frame_header": "79c154b67db4749eb0e1dd98c265818f8ecc75b985e400000000",
+    "tcp_frame_header": "91e46db6ccaa8fe100000000",
+    "text_section_end": 1,
+    "urls": [
+        {
+            "url": "https://nutiensel.com/Dequeue/odbc/1VXDSW2OHJOE",
+            "url_type": "cnc"
+        },
+        {
+            "url": "https://nutiensel.com/Retrieve/v3.85/ZSRNTX1OUI",
+            "url_type": "cnc"
+        }
+    ]
+}
