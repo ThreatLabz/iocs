@@ -1,0 +1,20 @@
+{
+    "request_headers": "Cookie: nggsSI=21201022",
+    "urls": [
+        {
+            "url": "https://aimaginator.com/king-plugin/king-captcha/l270jj.php?id=1",
+        },
+        {
+            "url": "https://matrixtechco.com/wp-content/themes/twentytwentyfour/apjnb9.php?id=1",
+        },
+        {
+            "url": "https://www.hiperplatinum.com/9chvqt.php?id=1",
+        },
+        {
+            "url": "https://www.hostingso.com/fkkf4z.php?id=1",
+        },
+        {
+            "url": "https://www.locandarelais.it/wp-content/themes/twentytwentyone/xtvs9x.php?id=1",
+        }
+    ]
+}
