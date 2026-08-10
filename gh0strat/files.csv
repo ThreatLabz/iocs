@@ -1,0 +1,14 @@
+Hash,Description,Notes
+29f42ac1a89ed25f1ff7e41d3d54733c,msi,Initial installer entry
+31184ae6cc163d203628a2b0fb469b0a,dll,Runtime-dropped loader DLL
+52b6ee6aef30978a34d4da46f1aa62b6,cab file,Installer payload container
+c64cc951f9544dbd6090c5200a741226,ranchserv.jpg,TrueSight driver (BYOVD)
+ed5c4c62150f1fdb323926f4c109b7f0,UxEnhance64.dll,Sideloaded helper DLL
+5ed0cc050c263f69dc2ae657c2b0165a,drops[1].jpg,OSS cached payload
+9ec587911e501b73b7cf09f05d0ae17d,lWSiaf.exe (Tencent signed),Signed sideload host
+5251b98614acffe5c856f4039ca03da3,PhilipsSpeechDriverConfiguration.exe,OSS/FOM downloader host
+715e78d396b5f3818f8fb613b9acbc79,XPSPLOG.dll,Sideloaded execution DLL
+131fe5f5f48b9e48f62d627c44ad3885,XPSPLOG.dll,Sideloaded execution DLL
+4b624e30d3510d25ff7066790d33186a,image.png (PE),Intermediate loader PE
+6faf22daedf151221b70723a565d6f93,thumbs.db (PE),Gh0st RAT payload
+562c091ba2bfa33b70a6bd1ed6d9272b,thumbs.db (PE),Gh0st RAT payload
