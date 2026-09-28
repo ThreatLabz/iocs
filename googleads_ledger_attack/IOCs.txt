@@ -1,3 +1,5 @@
+# Reference: https://www.zscaler.com/blogs/security-research/threat-actors-use-google-ads-target-ledger-users
+
 # GCS Bucket URLs
 storage.googleapis[.]com/apf-leg-ad-23798/
 storage.googleapis[.]com/ledg-leg1-79230/
